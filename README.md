@@ -8,6 +8,8 @@ A set of python scripts that will autosign modified vbmeta and boot images for R
 
 # Instructions:
 1. Place vbmeta.img, boot.img, and magisk patched boot (magisk.img) into this directory
-2. run patch.sh
-3. flash vbmeta_custom.img into vbmeta_a and vbmeta_b
-4. flash magisk.img into boot_a and boot_b
+2. Run python2 avbtool info_image --image boot.img
+3. Copy the number next to "Image size" and paste it into the 2nd line of patch.sh
+4. Run patch.sh
+5. Flash vbmeta_custom.img into vbmeta_a and vbmeta_b
+6. Flash magisk.img into boot_a and boot_b
