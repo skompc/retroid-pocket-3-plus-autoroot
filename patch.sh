@@ -1,6 +1,6 @@
 #!/bin/bash
 BOOT_IMG_SIZE=67108864
-PYTHON_LOC=./anaconda2/bin/python2
+PYTHON_LOC=~/anaconda2/bin/python2
 
 echo "Extracting keys from vbmeta"
 $PYTHON_LOC VBMetaKeysExtractor.py vbmeta.img

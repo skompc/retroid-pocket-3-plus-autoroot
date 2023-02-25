@@ -4,7 +4,8 @@
 A set of python scripts that will autosign modified vbmeta and boot images for RP3+  
 
 # Dependancies
-Linux OS
+ 1. A 64 bit (x86_64) Linux OS
+ 2. Anaconda2 (https://repo.anaconda.com/archive/Anaconda2-2019.10-Linux-x86_64.sh)... This script assumes that Anaconda2 is installed into your home directory!
 
 # Instructions:
 1. Place vbmeta.img, boot.img, and magisk patched boot (magisk.img) into this directory
