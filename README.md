@@ -1,4 +1,4 @@
-## <center>CURRENTLY STILL IN PROGRESS!!! NOT GUARANTEED TO WORK YET!!! USE AT YOUR OWN RISK!!!</center>
+## <center>CURRENTLY STILL IN PROGRESS!!! THIS WILL BRICK YOUR DEVICE IN ITS CURRENT STATE!!! USE AT YOUR OWN RISK!!!</center>
 
 # Retroid Pocket 3 + Autoroot Patcher
 A set of python scripts that will autosign modified vbmeta and boot images for RP3+  
