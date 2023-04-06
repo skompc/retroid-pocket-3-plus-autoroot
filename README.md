@@ -5,7 +5,7 @@ A set of python scripts that will autosign modified vbmeta and boot images for R
 
 # Dependencies
  1. A 64 bit (x86_64) Linux OS (Windows users can use WSL which you can get via the Windows Store for free)
- 2. Anaconda3 (https://repo.anaconda.com/archive/Anaconda2-2019.10-Linux-x86_64.sh)... This script assumes that Anaconda3 is installed into your home directory! (~/anaconda3)
+ 2. Anaconda3 (https://www.anaconda.com/products/distribution#Downloads)... This script assumes that Anaconda3 is installed into your home directory! (~/anaconda3)
 
 # Instructions:
 1. Place vbmeta.img, boot.img, and magisk patched boot (magisk.img) into this directory
